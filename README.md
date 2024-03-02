@@ -1,3 +1,12 @@
+<h1 align="center">Hi there!<img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.giff" alt="Wave hello" style="height: 35px; width:35px;"/> </h1>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Mdsaa07&color=blueviolet" alt="Profile Views">
+    <img src="https://hit.yhype.me/github/profile?user_id=91393862" alt="Profile Hits">
+</p>
+
+
+
 # Hello, World! 👋
 
 Welcome to my GitHub profile! 
