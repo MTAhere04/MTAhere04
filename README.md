@@ -20,12 +20,7 @@ I'm a passionate computer science student with a keen interest in artificial int
 
 ## Let's Connect:
 
-- 📫 Feel free to reach out to me via email or connect with me on LinkedIn.
-- 🤝 Open to collaboration and new opportunities in the world of tech!
-
-
--📫 Feel free to reach out to me via email at [tariqpasha04@gmail.com](mailto:tariqpasha04@gmail.com).
-
+- 📫 Feel free to reach out to me via email at [tariqpasha04@gmail.com](mailto:tariqpasha04@gmail.com).
 - 🤝 Open to collaboration and new opportunities in the world of tech!
 
 
