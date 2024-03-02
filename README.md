@@ -21,13 +21,13 @@ I'm a passionate computer science student with a keen interest in artificial int
 ## Let's Connect:
 
 -📫 Feel free to reach out to me via email at [tariqpasha04@gmail.com](mailto:tariqpasha04@gmail.com).
-- 🤝 Open to collaboration and new opportunities in the world of tech!
+-🤝 Open to collaboration and new opportunities in the world of tech!
 
-<h3 align="left">Connect with me:</h3>
 <p>
  <a href="https://www.instagram.com/tariq.akram_/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Mohammed-Tariq-Akram" height="30" width="130" />
 </a>
+</p>
 <a href="https://www.linkedin.com/in/md-tariq-mta10204/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mohammed-Tariq-Akram" height="30" width="130" />
 </a>
