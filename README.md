@@ -1,8 +1,8 @@
 <h1 align="center">Hello, World!<img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.giff" alt="Wave hello" style="height: 35px; width:35px;"/> </h1>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Mdsaa07&color=blueviolet" alt="Profile Views">
-    <img src="https://profile-counter.glitch.me/Mdsaa07/count.svg" alt="Profile Hits">
+    ![](https://komarev.com/ghpvc/?MTAhere04&color=green)
+    
 </p>
 
 
