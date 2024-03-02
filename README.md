@@ -24,14 +24,16 @@ I'm a passionate computer science student with a keen interest in artificial int
 - 🤝 Open to collaboration and new opportunities in the world of tech!
 
 
-<p style="text-align: center;">
-    <a href="https://www.instagram.com/tariq.akram_/" target="_blank">
-        <img style="margin-right: 10px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Mohammed-Tariq-Akram" height="30" width="130" />
-    </a>
-    <a href="https://www.linkedin.com/in/md-tariq-mta10204/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mohammed-Tariq-Akram" height="30" width="130" />
-    </a>
-</p>
+    <p style="text-align: center;">
+        <a href="https://www.instagram.com/tariq.akram_/" target="_blank">
+            <img style="margin-right: 10px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Mohammed-Tariq-Akram" height="30" width="130" />
+        </a>
+    </p>
+    <p>
+        <a href="https://www.linkedin.com/in/md-tariq-mta10204/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mohammed-Tariq-Akram" height="30" width="130" />
+        </a>
+    </p>
 
 
 
