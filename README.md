@@ -13,9 +13,9 @@ I'm a passionate computer science student with a keen interest in artificial int
 
 ## About Me:
 
-- 🔬 Currently studying computer science, diving deep into AI, ML, and cybersecurity.
+- 🔬 Currently studying computer science, diving deep into AI & ML, Cloud and cybersecurity.
 - 💡 Fluent in Python, Java, SQL, HTML, CSS.
-- 🚀 Proficient with technologies such as TensorFlow, Django, NumPy, Bootstrap, scikit-learn, and Git.
+- 🚀 Proficient with technologies such as TensorFlow, AWS, Django, NumPy, Bootstrap, scikit-learn, and Git.
 - 🌱 I'm continually striving to grow further as a software engineer and enthusiast, aiming to make meaningful contributions to the tech world.
 
 ## Let's Connect:
